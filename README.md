@@ -1,6 +1,6 @@
-# [Material Kit 2](https://github.com/mwesigwa2/material-kit/releases) [![Tweet](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases%20Material%20Kit%202%20made%20by%20@CreativeTim%20#webdesign%20#designSystem%20#uiKit%20#materialDesign%20#html%https://github.com/mwesigwa2/material-kit/releases) [![Discord](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases)
+# [Material Kit 2](https://github.com/mwesigwa2/material-kit/releases) [![Tweet](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases) [![Discord](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases)
 
-![version](https://github.com/mwesigwa2/material-kit/releases) [![GitHub issues open](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases%3Aopen+is%3Aissue) [![GitHub issues closed](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases%3Aissue+is%3Aclosed)
+![version](https://github.com/mwesigwa2/material-kit/releases) [![GitHub issues open](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases+is%3Aissue) [![GitHub issues closed](https://github.com/mwesigwa2/material-kit/releases)](https://github.com/mwesigwa2/material-kit/releases+is%3Aclosed)
 
 ![Image](https://github.com/mwesigwa2/material-kit/releases)
 
